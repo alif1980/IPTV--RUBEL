@@ -15,24 +15,8 @@ http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.78.255.178:8080/gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-https://rhridoy136.shortcm.li/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="* BDIX19",NEWS 24 HD
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTHNGMll2eEdOeU0zZGw1MkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="* BDIX19",JAMUNA TV
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejV5YXYxU1pzQlhiaE5YTDBOWFowMVNZdVZYYmhwMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -40,128 +24,199 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="* BDIX19",ATN BANGLA
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5KM2J0Z1RMa0ptYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="* BDIX19",ATN Islam
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="* BDIX19",CHANNEL I HD
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5KM2J0Z1RMcHhXWnU1V1lvTjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="* BDIX19",RTV HD
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1eVp6MWlkMEozTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="* BDIX19",BOISHAKHI TV
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejV5Wnk5V0wyUlhhb3RXWW9OWGF2SjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="* BDIX19",BANGLA VISION
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdUFETXdZWFlzZG1iaEoyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="* BDIX19",BANGLA TV HD
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVFHYTJSWFlzZG1iaEoyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
+http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
 https://piratesiptv.shortcm.li/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="* BDIX19",GAAN BANGLA HD
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTGtkbWN2MUNPdEVHYm41V1lpNVdZaGQyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
+https://rhridoy136.shortcm.li/channel24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="* BDIX19",Movie Bangla TV
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdUl6YXVsR2JoeDJadUZtWWxsbWR2MTJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
+http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="* BDIX19",ANANDA TV HD
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDJSWFlrNVdZdUYyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
+http://tv.alphamediazone.com:8089/thunderbd/58/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="* BDIX19",SA TV HD
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDJZak4xWW1adlpIZGhOM0xKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="* BDIX19",NRB IPTV
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVTZGwxaVl5NTJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
+http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg" group-title="* BDIX19",Nakshi
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDJSWGFvTjNhaDUyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1Q2V3MVdaMDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
+http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 20032021",MAASRANGA TV HD
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdU0zY2gxMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNUNldzFXWjA5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Mastiii (576p)
-PWdUZHowbUw0VkdadWwyTHBrR2EwTlhZTmhDYmw1bWJoaDJRdlVtZHB4MExwaEdkekZXYnZRbmJsUm5idk4wTDFnakx3WVRNdWtUT3g0eU13RXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",9XM (480p)
-PWdUZHowbUw0VkdadWwyTHMxMmNwNVNUWWx6TE5oVk92WUhkdHNHY2k5Q2RsNW1MMDUyYnlaR1oxOUdiajV5YWhKR2N6VlRad1JEYzRFbk1rOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
+http://iptv.univisionlive.net:25461/live/hossen321/05725321/1562.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",EBS KIDS
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Zee Bioskop
-NFUzTXQ1Q2VsUm1icDlpTXpNM0x6OXlkbGxqYzNGM0wxTWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
+http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Nat Geo Dubai
-NFUzTXQ1U1BCaFVUMEVFVk5Sak4wOUZNd0FETXdBRE5pOUZkemxHYnI1V2RvTjJMc2xXYno1U2JoVm1jME5uTDJSM1poNW1Pc2xXYno5aWQwZFdZdTlTYnZObUx2eDJidDkyWnVGV2J1NEdaajVpTXVSV2JrRjJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
+https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",CCN Bangla
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q2MxdDJZaEoyWGk1bWJqOUNaMlJuY3ZZSGR1UTNjaE5HZHlGV2J6NVNadzltYzFWV0x4NEdaajl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Channel S
-PWdUZHowbUw0VkdadWwyTHRGV1p5UjNjdWtUTTE4U2J2Tm1MMGNUTjV3bUwwSWpjME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Doyel TV
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVlIZHNWV2V2UjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTVDZXcxV1owOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",52 TV
-PWdUZHowbUw0VkdadWwyTHRGV1p5UjNjdU1ETTE4U2J2Tm1MMGNUTjV3bUwwSWpjME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",MAQ TV
-PWdUZHowbUw0VkdadWwyTHRGV1p5UjNjdWNUTTE4U2J2Tm1MMGNUTjV3bUwwSWpjME4zTHZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Nobodip TV
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q2NwUjJiaTltYnZZSGR3bFdabEoyTHhnRE00b3paeTltTGxKWGEzbFhidUFYYWs5bVl2NTJMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",CTVN Akd Plus
-NFUzTXQ1Q013QWpNeFVqWWZSM2NweDJhdVZIYWo5Q2JwMTJjdXdDTnlnVE1peENOeUFUTWl4aU14VWpZc1lUTnlJR0xmTlhkc0IzWGt0V1lmNW1kME5tTzBOSGJ0RjJMbFpYYXM5U1l6ZFhaekpYWjI5U2J2Tm1MNVJYYTJGbWNuUlhhaTVpYmtObUxqQm5MaE4zZGxObmNsWjNMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",News 18 Bangla
-PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1QVhMMkYyWDA4RmVsUm1icDlTTzRJak1BRnpYaHgyWnVGbVk0RWpidmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didEVHYm41V1lpaFRNemRYWnU5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Animax
-eUVVSjBnVEp5VVVKV1JWTGxaWGFNOURPMU5UYnVFRE12UUROeGcyTG85U04wUVRPeVIyTDRFek01Z2paMllqWnhnell0SVdNNGdUTDRVV014MFNPMkVHWnRZak0xSXpZaU5ET3Y0MmJwTjNjbE4zTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Cartoon Network
-PT1BTzFOVGJ1UXpYNFZHWnVsMkxtQmpZaFZXT3lZR08xUVRaaVpqTmhWak16UXpOekl6TnpjRE9oRkdOalIyTHhZM0wwVjNidlFYWnU1Q1pwaFdZb05uTGlWSFp0UTJieUJYTDBWbWJ0NDJidlJuY2hOV0x6eEdhejl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",MBC 3
-PT1BTzFOVGJ1TXpYNFZHWnVsMkx5Z2paNU1XWmtoall6SW1abEZ6TjRFV016UXpOMmtUWTJRR1o1QVRaaloyTHhZM0wwVjNidlFYWnU1Q1pwaFdZb05uTGlWSFp0UTJieUJYTHlWWFp0TXpZaTFXTHp4R2F6OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Manoranjan Movies
-PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1NFdhdU1YWnBaM2JONVdZcTVXWXk5bWJoMWtMeWNUTXk4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science English
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Bflix Movies
-PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHpWV2EyOVdUNGxHYkdKa0wxUURNMTh5Y3NoMkwwVm1idWsyZHV4R2J1TW5MekJIY2hKamF0WXpNd01XTHQ5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English", Discovery Turbo
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",9X Jalwa
-NGN6TjFVak4ySURPeEFqZDBCWGFzVkdhdk5YUHVWMmF2UjNQNFUzTXQ1Q2VsUm1icDlDY3dnRE5mNVdhdUUyZHNGbVNZbGpMeGd6Tnc4U1oybEdidlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTTXdNV0x0OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Music India
-NGN6TjFVak4ySURPeEFqZDBCWGFzVkdhdk5YUHVWMmF2UjNQNFUzTXQ1aWJwNVNZcFJtYkpOV2F6VlhUdVFETXlBekxraDJYenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Pop Pataakha
-PWd6TjNVVE4yWWpNNEVETTJSSGNweFdabzkyYzk0V1pyOUdkL2dUZHowbUwwTlhhc2xYWXNCM0xodFdZMEZHY3RBM2J3OWljaFZtYnB4Mkx0OTJZdUVXYmhkbWIxaG1MbFpYYXM5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
+https://last.gcdn.co/IND414/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Bhojpuri Hungama
-PWd6TjNVVE4yWWpNNEVETTJSSGNweFdabzkyYzk0V1pyOUdkL2dUZHowbUwwTlhhc2xYWXNCM0xzRldZdEZHYWs5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Dil Se
-PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2VTJjdHdXYWs5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
+https://last.gcdn.co/IND415/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
+https://236s.short.gy/DreamTV/PriveHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2456.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 
